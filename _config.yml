@@ -1,0 +1,28 @@
+name: Team Murray
+favicon: null
+layout_spectrum: 0.894442044198513
+typography_spectrum: 0.015111182117834687
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6108997275587171
+  lightness: 0.27189176762476563
+  saturation: 0.18436476518400013
+  rhythmicContrast: 0.025913667399436235
+purpose: []
